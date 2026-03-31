@@ -6,7 +6,7 @@ Features
   * Gesture-based volume control
   * Visual feedback with volume bar and percentage
   * Touchless and user-friendly interaction
-  * Works on macOS using system-level commands
+ 
 
 Technologies Used
   * Python
